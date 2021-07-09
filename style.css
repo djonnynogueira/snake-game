@@ -1,0 +1,18 @@
+body{
+    height: 95vh;
+    width:  95;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    /* color: rgb(44, 139, 44); */
+    background-color: teal;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+
+}
